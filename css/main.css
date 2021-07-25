@@ -1,0 +1,32 @@
+.product-item{
+	background: steelblue;
+	width: 300px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 10px;
+	margin-bottom: 15px;
+	color: white;
+	text-align: center;
+}
+
+.product-item img{
+	width: 150px;
+}
+
+.product-item h3{
+	font-size: 35px;
+}
+
+.product-item p{
+	font-weight: 700;
+}
+
+.buy-btn{
+	padding: 5px 20px;
+	background: orangered;
+	border: none;
+	font-weight: 700;
+	font-size: 20px;
+	cursor: pointer;
+}
